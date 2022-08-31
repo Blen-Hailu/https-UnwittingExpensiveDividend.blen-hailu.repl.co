@@ -1,0 +1,36 @@
+ body {margin: 10px; padding: 20px;
+  background-color:#94B49F;
+}
+    h1{ text-align: center;
+      color:#2C3333;font-family:serif; border: solid 1px; background-image:url("[Original size] Kotibet.jpg");
+         margin: 40px
+       img[src*="logo"] {float:right}
+    }
+ #intro {color:  #2C3333;margin:15px; background-color:#B1D7BB4;
+        }
+    h2 { color: #2C3333;
+       }
+    h3{ color:#2C3333;
+      }
+ p{text-align:justify;} 
+button {
+  background-color:#CEE5D0;
+  color:#B1D7BB4;
+  border:none;
+  height:30px; 
+
+}
+#link1{color: #2C3333;font-size:12px; 
+
+       
+       } 
+a:hover {color: greenyellow}
+
+h1, h2, h3 {font-family: Georgia; font-size: 30px; font-weight: bold;
+       }
+p{ font-family: Helevetica; font-size: 25px 
+ }
+.intro { font-family: Helvetica; font-size 30px;
+      }
+p{ text-align: justify; opacity: 0.65}
+p
